@@ -1,0 +1,60 @@
+.page-header  {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: url("img/wheat-back.jpg") 50% 100% no-repeat;
+  height: 550px;
+  width: 100%;
+  background-size: cover;
+}
+
+.header-container {
+  position: relative;
+  width: 800px;
+  margin: 60px auto;
+}
+.page-header ul {
+  position: relative;
+  display: inline;
+  float: right;
+  margin: 10px 0px 10px 0px;
+  border-top: 1px solid rgba(255,255,255,.2); 
+  border-bottom: 1px solid rgba(255,255,255,.2);
+  
+  
+  
+}
+.page-header  li  {
+  list-style-type: none;
+  position: relative;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 16px;
+  line-height: auto;
+  font-weight: bold;
+  padding: 10px 0px;
+  margin: 10px 0px;
+  text-transform: uppercase;
+  
+  
+}
+
+
+.page-header li a {
+  text-decoration: none;
+  color: white;
+}
+
+.page-header p  {
+  color: white;
+  font-family: Arial;
+  line-height: 70px;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+
+
